@@ -1,0 +1,17 @@
+
+# Виртуальное окружение Python
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Настройки PyCharm
+.idea/
+
+# Видеозаписи
+recordings/
+
+# Переменные окружения и секреты
+.env
